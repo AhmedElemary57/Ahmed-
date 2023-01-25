@@ -8,7 +8,7 @@ Making use of the best data structure to save time and storage makes me happy :)
 
 ## Languages and tools
 
-[![My Skills](https://skills.thijs.gg/icons?i=java,scala,c,cpp,r,python,ts,js,html,css,angular,git,linux,aws,spring)]()
+[![My Skills](https://skills.thijs.gg/icons?i=java,scala,c,cpp,r,python,ts,html,css,angular,git,linux,spring)]()
 
 ## contact me 
 
